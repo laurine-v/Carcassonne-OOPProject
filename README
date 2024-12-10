@@ -1,0 +1,4 @@
+Lignes de commande à exécuter:
+
+javac src/*.java
+java -classpath src LanceurGraphique
